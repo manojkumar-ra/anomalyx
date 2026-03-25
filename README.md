@@ -28,7 +28,7 @@ Multi-method anomaly detection system that combines **Isolation Forest**, **Auto
 ![Dataset Analysis](screenshots/dataset_analysis.png)
 
 ### Detection Results
-![Results](screenshots/detection_results.png)
+![Results](screenshots/detection_analysis.png)
 
 ### AI Analysis
 ![AI Analysis](screenshots/ai_analysis.png)
